@@ -10,6 +10,7 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 ### Pàgines web
 
 - [00 Alejandro Hernández](https://ahernandezdom.github.io/)
+- [Santiago Martinez Cordoba](https://github.com/santimartinezcordoba-prog/mi-web2)
 
 -  14 Javier Sansano https://javiersansano222.github.io/mi-web/
 
