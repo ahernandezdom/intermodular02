@@ -10,6 +10,7 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 ### Pàgines web
 
 - [00 Alejandro Hernández](https://ahernandezdom.github.io/)
+- [31 Carles Tudela](https://carles023.github.io/mi-web/)
 - [Iván Gómez Navarro](https://ivan-gva.github.io/)
 - [ Jose Miguel Miralles Gandia] (https://josemidev1.site)
 - [Alex Baicu](https://alexbaicu.es/)
