@@ -28,3 +28,4 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 - [Jose Ruiz Casal](https://josruicas2.github.io/)
 - [Joan Catala Mateu](https://joancatala2.github.io/)
 - [David Abraham Alba Rivero](https://david1alu.github.io/)
+- [Sergio Chorques Perales](https://sergiochp.github.io/mi-web/)
